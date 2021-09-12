@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
  #lang img{
   width: 30px;
   height: 30px;
@@ -120,9 +120,6 @@ and here's a graph for people who like graphs:
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=finallyRaunak&theme=github)
 
 ### my wonderful stats
-
-https://github.com/khalby786/khalby786/blob/master/.github/workflows/stats.yml
-https://github.com/teoxoy/profile-readme-stats
 
 ```sh
 curl --location --request GET '/finallyRaunak/status' \
