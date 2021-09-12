@@ -16,6 +16,8 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
  - 😄 pronouns: he/him, raunak gupta, webhat & know pro
  - ⚡ fun fact: i play games and watch cricket very often.
 
+---
+
 ## contact me
 
 [![Raunak Gupta's github profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "github profile")](//github.com/finallyRaunak)
@@ -23,6 +25,8 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 [![Raunak Gupta's linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "linkedin profile")](//www.linkedin.com/in/raunak-gupta/)
 [![Raunak Gupta's facebook page](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "facebook page")](//www.facebook.com/webhat.in/)
 [![Raunak Gupta's youtube channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "youtube page")](//www.youtube.com/channel/UCTCHKVFJeREOAeNt3ZF8VaQ)
+
+---
 
 <div>
 
@@ -63,7 +67,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 <img src="https://avatars.githubusercontent.com/u/7658037" alt="swagger" style="width: 30px; margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc" style="width: 30px; margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime txt" style="width: 30px; margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 30px; margin-right: 10px;">
+<img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="linux" style="width: 30px; margin-right: 10px;">
 
 ### server & cloud platform
 
@@ -83,7 +87,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 <img src="./img/stackdriver.svg" alt="stackdriver" title="Google Stackdriver" style="width: 30px; margin-right: 10px;">
 <img src="./img/amazon-s3.svg" alt="s3" title="AWS S3" style="width: 70px; margin-right: 10px;">
 
-
+---
 
 ## things i am learning
 
@@ -91,18 +95,27 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 ![lang](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
-<br>
+<br />
 
+---
+<br />
 
-
-## my latest blog posts
+## 📕 my latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://www.webhat.in)
+
+<br />
+---
+<br />
+
 ## my github stats
 
-![Github status](https://github-readme-stats.vercel.app/api?username=finallyRaunak)
+| ![Github status](https://github-readme-stats.vercel.app/api?username=finallyRaunak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Used language](https://github-readme-stats.vercel.app/api/top-langs/?username=finallyRaunak&layout=compact&theme=buefy&hide_border=true) |
+| ------------- | ------------- |
+
 
 and here's a graph for people who like graphs: 
 
@@ -119,17 +132,21 @@ curl --location --request GET '/finallyRaunak/status' \
   "joined": "4 years ago",
   "repos": "3",
   "repos_contributed_to": "2",
-  "commits": "14",
+  "commits": "15",
   "stars": "3",
   "issues": "5",
   "pull_requests": "1"
 }
 ```
 
-### visitor count
+---
+<br />
 
-![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg)
+## additional info
+
+| visitor count | stackOverflow profile |
+| ![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg) | [![Raunak Gupta's stackOverflow](https://stackoverflow-badge.vercel.app/?userID=5019802)](https://stackoverflow.com/users/5019802/raunak-gupta) |
+| ------------- | ------------- |
 
 <br><br>
-
 
