@@ -95,7 +95,6 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 ![lang](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
-<br />
 
 ---
 <br />
@@ -108,11 +107,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 
 ➡️ [more blog posts...](https://www.webhat.in)
 
-<br />
-
 ---
-
-<br />
 
 ## my github stats
 
