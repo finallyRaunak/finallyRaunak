@@ -102,13 +102,16 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 
 ## 📕 my latest blog posts
 
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.webhat.in)
 
 <br />
+
 ---
+
 <br />
 
 ## my github stats
@@ -140,7 +143,6 @@ curl --location --request GET '/finallyRaunak/status' \
 ```
 
 ---
-<br />
 
 ## additional info
 
