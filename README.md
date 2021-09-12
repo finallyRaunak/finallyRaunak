@@ -95,7 +95,6 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 ![lang](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
-<br />
 
 ---
 <br />
@@ -108,11 +107,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 
 ➡️ [more blog posts...](https://www.webhat.in)
 
-<br />
-
 ---
-
-<br />
 
 ## my github stats
 
@@ -135,7 +130,7 @@ curl --location --request GET '/finallyRaunak/status' \
   "joined": "4 years ago",
   "repos": "3",
   "repos_contributed_to": "2",
-  "commits": "17",
+  "commits": "18",
   "stars": "3",
   "issues": "5",
   "pull_requests": "1"
