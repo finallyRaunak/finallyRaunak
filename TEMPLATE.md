@@ -145,8 +145,8 @@ curl --location --request GET '/finallyRaunak/status' \
 ## additional info
 
 | visitor count | stackOverflow profile |
-| ![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg) | [![Raunak Gupta's stackOverflow](https://stackoverflow-badge.vercel.app/?userID=5019802)](https://stackoverflow.com/users/5019802/raunak-gupta) |
 | ------------- | ------------- |
+| ![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg) | [![Raunak Gupta's stackOverflow](https://stackoverflow-badge.vercel.app/?userID=5019802)](https://stackoverflow.com/users/5019802/raunak-gupta) |
 
 <br><br>
 
