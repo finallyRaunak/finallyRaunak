@@ -1,4 +1,5 @@
 name: Latest blog post workflow
+
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 2-30/2 * *' # Will only run at 00:00 on even days

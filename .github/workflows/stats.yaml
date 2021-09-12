@@ -3,6 +3,7 @@ name: Update the status in json md
 on:
   schedule:
     - cron: '0 0 2-30/2 * *' # Will only run at 00:00 on even days
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   push:
     branches:
       - main
