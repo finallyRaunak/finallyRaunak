@@ -132,7 +132,7 @@ curl --location --request GET '/finallyRaunak/status' \
   "joined": "4 years ago",
   "repos": "3",
   "repos_contributed_to": "2",
-  "commits": "15",
+  "commits": "16",
   "stars": "3",
   "issues": "5",
   "pull_requests": "1"
@@ -145,8 +145,8 @@ curl --location --request GET '/finallyRaunak/status' \
 ## additional info
 
 | visitor count | stackOverflow profile |
-| ![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg) | [![Raunak Gupta's stackOverflow](https://stackoverflow-badge.vercel.app/?userID=5019802)](https://stackoverflow.com/users/5019802/raunak-gupta) |
 | ------------- | ------------- |
+| ![Visitor Count](https://profile-counter.glitch.me/finallyRaunak/count.svg) | [![Raunak Gupta's stackOverflow](https://stackoverflow-badge.vercel.app/?userID=5019802)](https://stackoverflow.com/users/5019802/raunak-gupta) |
 
 <br><br>
 
