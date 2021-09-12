@@ -63,6 +63,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 <img src="https://avatars.githubusercontent.com/u/7658037" alt="swagger" style="width: 30px; margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc" style="width: 30px; margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime txt" style="width: 30px; margin-right: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 30px; margin-right: 10px;">
 
 ### server & cloud platform
 
@@ -96,8 +97,8 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 
 ## my latest blog posts
 
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## my github stats
 
@@ -107,7 +108,7 @@ and here's a graph for people who like graphs:
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=finallyRaunak&theme=github)
 
-### my wonderful stats
+### my wonderful stats (*specifically for an alien like me*)
 
 ```sh
 curl --location --request GET '/finallyRaunak/status' \
