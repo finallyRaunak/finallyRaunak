@@ -12,7 +12,7 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
  - 👯 i'm looking to collaborate on wordpress or laravel package!
  - 🤔 i'm looking for help with Kubernetes and gke ingress
  - 💬 ask me about laravel, wordpress, woocommerce, gitlab pipeline and indian sweets
- - 📫 how to reach me: [social](#social)
+ - 📫 how to reach me: [contact me](#contact-me)
  - 😄 pronouns: he/him, raunak gupta, webhat & know pro
  - ⚡ fun fact: i play games and watch cricket very often.
 
