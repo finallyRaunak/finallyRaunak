@@ -103,9 +103,6 @@ i'm  a passionate, self-taught programmer. i revel in coding a lot due to the re
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Setup A Cron in WordPress](https://www.webhat.in/article/wordpress-tutorials/how-to-setup-a-cron-in-wordpress/)
-- [Creating Simple Product using WooCommerce CRUD](https://www.webhat.in/article/woocommerce-tutorial/creating-simple-product-using-woocommerce-crud/)
-- [MySQL Query to Get All Coupon](https://www.webhat.in/article/woocommerce-tutorial/mysql-query-to-get-all-coupon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.webhat.in)
