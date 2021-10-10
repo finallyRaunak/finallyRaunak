@@ -130,7 +130,7 @@ curl --location --request GET '/finallyRaunak/status' \
 ```
 ```json
 {
-  "joined": "4 years ago",
+  "joined": "5 years ago",
   "repos": "3",
   "repos_contributed_to": "2",
   "commits": "42",
