@@ -134,7 +134,7 @@ curl --location --request GET '/finallyRaunak/status' \
   "repos": "4",
   "repos_contributed_to": "2",
   "commits": "81",
-  "stars": "3",
+  "stars": "4",
   "issues": "5",
   "pull_requests": "2"
 }
