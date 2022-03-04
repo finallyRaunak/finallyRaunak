@@ -133,7 +133,7 @@ curl --location --request GET '/finallyRaunak/status' \
   "joined": "5 years ago",
   "repos": "5",
   "repos_contributed_to": "1",
-  "commits": "100",
+  "commits": "102",
   "stars": "4",
   "issues": "5",
   "pull_requests": "2"
