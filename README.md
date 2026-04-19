@@ -4,7 +4,7 @@
 
 # Raunak Gupta
 
-**Director of Products at CodeClouds.** 12 years building web products, cloud systems, and the teams behind them — started as a developer in 2014, been at CodeClouds since 2016 (junior → senior → team lead → PM → Director, same company).
+**Director of Products at [CodeClouds](https://www.codeclouds.com/about-us/).** 12 years building web products, cloud systems, and the teams behind them — started as a developer in 2014, been at CodeClouds since 2016 (junior → senior → team lead → PM → Director, same company).
 
 I write about real decisions and real scars — the stuff that only shows up after you've lived with a system in production for a few years — at [**techunfiltered.dev**](https://techunfiltered.dev).
 
@@ -19,7 +19,7 @@ I write about real decisions and real scars — the stuff that only shows up aft
 
 ## What I'm building
 
-Most of my code lives in private repos — CodeClouds products and [itoolverse](https://www.itoolverse.com) are on GitLab. The public footprint here is small and deliberate:
+Most of my code lives in private repos — CodeClouds products and [iToolVerse](https://www.itoolverse.com) are on GitLab. The public footprint here is small and deliberate:
 
 - [**vaaky-highlighter**](https://wordpress.org/plugins/vaaky-highlighter/) — a WordPress plugin I've quietly maintained for 10+ years
 - Older experiments and abandoned packages that once solved a real problem for me
