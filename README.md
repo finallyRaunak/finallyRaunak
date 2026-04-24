@@ -42,9 +42,10 @@ New posts ship every week at [techunfiltered.dev](https://techunfiltered.dev).
 <!-- Update this list manually until RSS is live -->
 <!-- BLOG-POST-LIST:START -->
 
+- [Claude Code Works — Until You Use It in a Team](https://techunfiltered.dev/claude-code-team-consistency-claude-folder)
+- [How I Solved AWS ALB's 25 SSL Certificate Limit for SaaS Custom Domains](https://techunfiltered.dev/scalable-ssl-saas-custom-domains-aws)
 - [How I Use AI as a Manager to Save 10+ Hours Every Week](https://techunfiltered.dev/ai-for-managers-workflows-prompts)
 - [VPCs, Subnets, and Routing — Explained Like a Real System, Not a Textbook](https://techunfiltered.dev/vpcs-subnets-and-routing-explained-like-a-real-system-not-a-textbook)
-- [Why Your Database Indexes Are Not Working (And How to Fix Them)](https://techunfiltered.dev/why-your-database-indexes-are-not-working)
 <!-- BLOG-POST-LIST:END -->
 
 [All articles →](https://techunfiltered.dev)
@@ -107,8 +108,8 @@ Not a skills-list flex — just what's actually in my daily rotation at work and
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=finallyRaunak&show_icons=true&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="Raunak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finallyRaunak&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="./img/stats.svg" alt="Raunak's GitHub stats" />
+  <img src="./img/top-langs.svg" alt="Top languages" />
 </p>
 
 ---
