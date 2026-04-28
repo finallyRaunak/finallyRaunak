@@ -4,7 +4,7 @@
 
 # Raunak Gupta
 
-**Director of Products at [CodeClouds](https://www.codeclouds.com/about-us/).** 12 years building web products, cloud systems, and the teams behind them — started as a developer in 2014, been at CodeClouds since 2016 (junior → senior → team lead → PM → Director, same company).
+**Director of Products at [CodeClouds](https://www.codeclouds.com/about-us/).** 12 years building web products, cloud systems, and the teams behind them — started as a developer in 2014, been at CodeClouds since 2016 (junior → senior → team lead → PM → Director, same company). The infrastructure I've shipped handles 1M+ requests/day. The databases I've designed run at petabyte scale. Nine products built and in production — all still running.
 
 I write about real decisions and real scars — the stuff that only shows up after you've lived with a system in production for a few years — at [**techunfiltered.dev**](https://techunfiltered.dev).
 
@@ -13,7 +13,20 @@ I write about real decisions and real scars — the stuff that only shows up aft
   <a href="https://www.linkedin.com/in/raunak-gupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/__RaunakGupta"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://stackoverflow.com/users/5019802/raunak-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.reddit.com/user/tech_unfiltered/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
+
+---
+
+## At scale
+
+Numbers from real production, not side projects:
+
+- **1M+ requests/day** — infrastructure I designed and still maintain
+- **Petabyte-scale** databases in production
+- **30M+ records, sub-1s aggregations** — MongoDB analytical queries on real tracking data, not single-record fetches
+- **9 products shipped** at CodeClouds — all in production
+- **Applied LLMs in production** — CV parsing, candidate fit-scoring, and team workflows; not demos, actual shipped features
 
 ---
 
@@ -101,7 +114,15 @@ Not a skills-list flex — just what's actually in my daily rotation at work and
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+**AI tools (daily)**
+
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
