@@ -52,7 +52,6 @@ New posts ship every week at [techunfiltered.dev](https://techunfiltered.dev).
 
 ### Latest articles
 
-<!-- Update this list manually until RSS is live -->
 <!-- BLOG-POST-LIST:START -->
 
 - [Claude Code Works — Until You Use It in a Team](https://techunfiltered.dev/claude-code-team-consistency-claude-folder)

@@ -1,0 +1,25 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "30 1 18 * *"  # 18th of every month at 7:00 AM IST (1:30 AM UTC)
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest articles from RSS and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://techunfiltered.dev/rss.xml"
+          max_post_count: 4
+          readme_path: README.md
+          commit_message: "chore: update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
