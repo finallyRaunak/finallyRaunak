@@ -53,11 +53,10 @@ New posts ship every week at [techunfiltered.dev](https://techunfiltered.dev).
 ### Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Claude Code Works — Until You Use It in a Team](https://techunfiltered.dev/claude-code-team-consistency-claude-folder)
-- [How I Solved AWS ALB's 25 SSL Certificate Limit for SaaS Custom Domains](https://techunfiltered.dev/scalable-ssl-saas-custom-domains-aws)
-- [How I Use AI as a Manager to Save 10+ Hours Every Week](https://techunfiltered.dev/ai-for-managers-workflows-prompts)
-- [VPCs, Subnets, and Routing — Explained Like a Real System, Not a Textbook](https://techunfiltered.dev/vpcs-subnets-and-routing-explained-like-a-real-system-not-a-textbook)
+- [Reduce Docker Image Size: Measure First, Then Cut](https://techunfiltered.dev/stop-shipping-1gb-docker-images)
+- [Why Your Docker Container Gets OOMKilled &lpar;Exit Code 137&rpar;](https://techunfiltered.dev/docker-container-oomkilled-exit-137)
+- [SNS vs Kafka: When You Actually Need Pub/Sub vs an Event Log](https://techunfiltered.dev/sns-vs-kafka-pubsub-vs-event-log)
+- [How We Reduced an AWS Bill by 40% Without Rewriting the Application](https://techunfiltered.dev/reduce-aws-costs-without-rewriting-applications)
 <!-- BLOG-POST-LIST:END -->
 
 [All articles →](https://techunfiltered.dev)
